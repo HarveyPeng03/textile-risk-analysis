@@ -185,3 +185,4 @@ const FireIncidentsChart = () => {
   });
 };
 export default FireIncidentsChart;
+### textile-fire-incidents-chart.js

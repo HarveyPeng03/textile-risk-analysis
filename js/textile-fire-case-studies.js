@@ -294,3 +294,4 @@ const CaseStudies = () => {
   });
 };
 export default CaseStudies;
+### textile-fire-case-studies.js
